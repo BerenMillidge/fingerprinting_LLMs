@@ -1,1 +1,1 @@
-Experiments with fingerprinting LLMs based on their unconditioned distribution
+Experiments with fingerprinting LLMs based on their unconditioned distribution. Code/screenshots for [this blog post](https://www.beren.io/2023-02-26-Fingerprinting-LLMs-with-unconditioned-distribution/).
